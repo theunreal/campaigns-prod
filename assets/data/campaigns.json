@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "email": "smither@gmail.com",
+      "first_name": "Smith",
+      "last_name": "wonderer",
+      "phone": "050425858",
+      "country": "IL",
+      "country_name": "Israel",
+      "parameter": "wonderer",
+      "campaign": "My Campaign",
+      "funnel": "My Funnel",
+      "created_date": "2017-06-30 14:08:00"
+    },
+    {
+      "id": "2",
+      "email": "sason@gmail.com",
+      "first_name": "Asa",
+      "last_name": "Ron",
+      "phone": "0534258564",
+      "country": "UK",
+      "country_name": "United Kingdom",
+      "parameter": "wonderer",
+      "campaign": "Ultra 1",
+      "funnel": "Fun 2",
+      "created_date": 1497629491000
+    },
+    {
+      "id": "3",
+      "email": "dsfdfs@gmail.com",
+      "first_name": "Nani",
+      "last_name": "Cohen",
+      "phone": "05245648564",
+      "country": "BR",
+      "country_name": "Brazil",
+      "parameter": "somep",
+      "campaign": "Ultra 3",
+      "funnel": "Funnel 34",
+      "created_date": 1497929681000
+    },
+    {
+      "id": "4",
+      "email": "rogozo@gmail.com",
+      "first_name": "Avi",
+      "last_name": "Toledano",
+      "phone": "0544564523",
+      "country": "IL",
+      "country_name": "Israel",
+      "parameter": "koko",
+      "campaign": "Ultra 4",
+      "funnel": "Funnel 2",
+      "created_date": "2017-06-04 14:08:00"
+    },
+    {
+      "id": "5",
+      "email": "zivami@gmail.com",
+      "first_name": "Ziv",
+      "last_name": "Ami",
+      "phone": "0544568531",
+      "country": "IL",
+      "country_name": "Israel",
+      "parameter": "somepara",
+      "campaign": "Ultra 2",
+      "funnel": "Funnel 1",
+      "created_date": "2017-06-04 14:08:00"
+    }
+  ]
+
+}
